@@ -1,0 +1,173 @@
+* {
+    font: 14px/22px Arial;
+    margin: 0;
+    padding: 0;
+}
+html , body {
+    height: 100%;
+}
+.header, header , .all, footer {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 1008px;
+}
+.header {
+    position: relative;
+}
+header {
+    margin-left: 24px;
+    position: absolute;
+}
+.all {
+    padding-top : 151px;
+    min-height: 100%;
+}
+.head, .content, .foot {
+    margin: 24px auto;
+    width: 960px;
+}
+.head div , .head img , .eight , .nine , .ten ul {
+    display: inline-block;
+}
+a, .two, .three, .for, .ten, .eleven, .twelve {
+    background-color: #777777;
+    color: white;
+}
+.five, .eight, .nine {
+    background-color: #dcdcdc;
+    color: #757575;
+}
+.head img , .two , .three {
+    height: 108px;
+}
+.head img , .left , .ten {
+    float: left;
+}
+.three , .center , .nine , .rightfoot {
+    float: right;
+}
+.head img , .seven {
+    position: absolute;
+}
+footer , .left {
+    position: relative;
+}
+.one {
+    width: 122px;
+}
+.two {
+    width: 279px;
+    margin-left: 145px;
+}
+.three {
+    width: 513px;
+}
+.title {
+    font-weight: bold;
+}
+.three p:first-child {
+    margin-bottom: 1px;
+}
+.head hr {
+    margin-top: 13px;
+}
+hr {
+    height: 1px;
+}
+.three p {
+    margin-right: 24px;
+    text-align: right;
+}
+.tel {
+    margin-top: 20px;
+}
+.left {
+    min-height: 772px;
+    position: relative;
+}
+.for {
+    margin-top: -1px;
+    padding: 13px;
+    width: 158px;
+}
+li {
+    list-style-type: none;
+}
+.seven {
+    bottom: 4px;
+}
+.center {
+    min-height: 772px;
+    width: 755px;
+}
+.five {
+    height: 174px;
+    margin-right: 20px;
+    margin-top: -1px;
+    padding: 17px 20px;
+    width: 717px;
+}
+.five ul {
+    margin: 22px 29px;
+}
+.six {
+    padding: 7px 0 12px;
+}
+.six img {
+    margin: 12px 18px 1px 0;
+}
+.six img.line_end {
+    margin-right: -24px;
+}
+.eight {
+    margin: -3px 0 0 1px;
+    max-width: 368px;
+    padding: 16px 19px 29px 16px;
+}
+.nine {
+    margin: -3px 0 0;
+    padding: 16px 0 96px 20px;
+    width: 351px;
+}
+.clear {
+    clear: both;
+    height: 200px;
+}
+footer {
+    bottom: 0;
+    margin: -200px auto 0;
+    min-height: 200px;
+    position: relative;
+}
+.ten {
+    margin-top: 22px;
+    width: 298px;
+}
+.item {
+    padding: 12px 0;    
+   -moz-column-count: 2; 
+   -webkit-column-count: 2; 
+    column-count: 2;
+}
+.item li {
+    margin: 0 36px 0 24px;
+}
+.eleven {
+    margin: 22px 326px;
+    min-height: 167px;
+    padding: 13px 0 0 38px;
+    width: 260px;
+}
+.elv li {
+    list-style-type: square;
+}
+.twelve {
+    height: 75px;
+    margin: 22px 0 28px 10px;
+    width: 308px;
+}
+.thirteen {
+    height: 75px;
+    margin-left: 10px;
+    width: 308px;
+}
